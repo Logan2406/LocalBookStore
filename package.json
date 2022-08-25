@@ -1,0 +1,25 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "Express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jpp",
+  "license": "MIT ",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fast2sms": "^1.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "fast-two-sms": "^3.0.0"
+  }
+}
