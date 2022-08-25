@@ -1,0 +1,36 @@
+.sider
+{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    border-right:2px solid red;
+    justify-content: space-between;
+    height:100%;
+    position: fixed;
+    width:"40px";
+    background-image:linear-gradient(to bottom, #0f2027, #203a43, #2c5364)
+}
+
+.active
+{
+    color:red;
+    background-color: white;
+}
+
+.inactive
+{
+    color:white;
+}
+
+a
+{
+    text-decoration: none;
+    color:white;
+}
+
+a:hover
+{
+    color:#1f4037;
+    background-color: antiquewhite;
+}
+

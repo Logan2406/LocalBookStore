@@ -1,0 +1,4 @@
+.dropdown:empty
+{
+    display: none;
+}
